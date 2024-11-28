@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on generative AI models<br>📚 Undergraduate in Bachelor's of Computer Science at FAST-NUCES<br>👩‍💻 Most used language: Python<br>📧 Reach me at: hassaanarshad01@gmail.com<br>
+🔭 Currently working on generative AI models, and Unity game engine<br>📚 Undergraduate in Bachelor's of Computer Science at FAST-NUCES<br>👩‍💻 Most used language: Python<br>📧 Reach me at: hassaanarshad01@gmail.com<br>
 
 
 ## 🌐 Socials:
